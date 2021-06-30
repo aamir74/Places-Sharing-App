@@ -1,5 +1,6 @@
 # Places Sharing App
-It's a social media app built with MERN stack which utilizes API's from backend. 
+It's a social media app built with MERN stack which utilizes API's from it's dedicated backend. 
+
 This App enable key aspects of a usual implementations:
 
 # features

@@ -3,7 +3,7 @@ It's a social media app built with MERN stack which utilizes API's from it's ded
 
 This App enable key aspects of a usual implementations:
 
-# features
+# Features
 1: Users can see feeds (photos) from other users.
 
 2: Users can signup and login.
